@@ -1,0 +1,42 @@
+.contactBar a:hover{
+    color: #ffffbc;
+}
+
+.nav-links a:hover{
+    border-bottom: 1px solid black;
+}
+.learnM a:hover{
+    background-color: #be9724;
+}
+
+.left:hover{
+    background-color: #be9724;
+}
+.right:hover{
+    background-color: #be9724;
+}
+
+.readMore:hover{
+    background-color: #be9724;
+}
+.view:hover{
+    background-color: #be9724;
+}
+.like:hover{
+    background-color: #be9724;
+}
+
+.gotopbtn{
+    position: fixed;
+    width: 3.1rem;
+    height: 3.1rem;
+    background: #e0b700;
+    bottom: 2.5rem;
+    right: 3.1rem;
+    text-decoration: none;
+    text-align: center;
+    border-radius: .8rem;
+    line-height: 3.1rem;
+    color: white;
+    font-size: 1.3rem;
+}
